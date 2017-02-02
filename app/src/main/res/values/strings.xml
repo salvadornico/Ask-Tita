@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ask Tita Baby</string>
+
+    <string name="twitter">Visit on Twitter</string>
+    <string name="answer">Ay hija, you come here and tell Tita Baby your question.</string>
+    <string name="button">Ask</string>
+    <string name="button_v2">Ask again</string>
+    <string name="ask_count_start">You haven\'t asked Tita yet.</string>
+    <string name="ask_count">You\'ve asked Tita %1$d times.</string>
+
+    <string name="option1">Konti na lang.</string>
+    <string name="option2">Ay malabo \'yan.</string>
+    <string name="option3">Hija, bata ka pa. Wag ka muna kumerengkeng.</string>
+    <string name="option4">Ay, palaka!</string>
+    <string name="option5">Hintay ka lang.</string>
+    <string name="option6">Hindi siguro.</string>
+    <string name="option7">Meh.</string>
+    <string name="option8">Push mo \'yan!</string>
+    <string name="option9">Malay mo?</string>
+    <string name="option10">Go lang ng go!</string>
+    <string name="option11">Probably.</string>
+    <string name="option12">Weh?!</string>
+    <string name="option13">Go for it!</string>
+    <string name="option14">Bawas-bawasan na ang kain, hija. Or else kakalbuhin kita.</string>
+    <string name="option15">Ay susmaryosep, wag ka nang umasa!</string>
+</resources>
